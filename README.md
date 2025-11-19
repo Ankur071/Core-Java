@@ -8,8 +8,6 @@ A comprehensive collection of Core Java programs covering some advanced concepts
 - [Project Structure](#project-structure)
 - [Topics Covered](#topics-covered)
 - [Prerequisites](#prerequisites)
-- [How to Run](#how-to-run)
-- [Learning Path](#learning-path)
 - [Contributing](#contributing)
 
 ## 🎯 Overview
